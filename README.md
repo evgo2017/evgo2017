@@ -17,7 +17,7 @@
 
 [live2d-static-api](https://github.com/evgo2017/live2d-static-api)：Fork 项目就能部署的 live2d 看板娘 api<img src="https://img.shields.io/github/stars/evgo2017/live2d-static-api.svg?style=social&label=Star&maxAge=2592000">
 
-🧡 [live2d-widget](https://github.com/evgo2017/live2d-widget)：基于 vue-live2d 剥离的、无依赖原生 JavaScript Live2D 看板插件，几行引入到页面。新项目。
+🧡 [live2d-widget](https://github.com/evgo2017/live2d-widget)：无依赖原生 JavaScript Live2D 看板插件，几行引入到页面。新项目。
 
 #### 🚀 新新仓库
 
@@ -29,7 +29,7 @@
 
 🧡 [killport](https://github.com/evgo2017/killport)：端口被占用？一键 Kill。新项目。Kill processes by port number。
 
-🧡[purify-page](https://github.com/evgo2017/purify-page)： 完美页面阅读体验，去除广告、推荐等一系列和阅读无关的内容。
+🧡 [purify-page](https://github.com/evgo2017/purify-page)： 完美页面阅读体验，去除广告、推荐等一系列和阅读无关的内容。
 
 ➡️ [更多项目...](https://www.evgo2017.com/project)
 
