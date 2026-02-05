@@ -27,6 +27,8 @@
 
 🧡 [mpv-lazy-easy](https://github.com/evgo2017/mpv-lazy-easy) : MPV 视频播放器懒人包，视频、音乐秒打开。
 
+🧡 [xiaoheihe-editor](https://github.com/evgo2017/xiaoheihe-editor)： A specialized Markdown conversion tool designed for the XiaoHeiHe. 小黑盒文章编辑器
+
 🧡 [killport](https://github.com/evgo2017/killport)：端口被占用？一键 Kill。新项目。Kill processes by port number。
 
 🧡 [purify-page](https://github.com/evgo2017/purify-page)： 完美页面阅读体验，去除广告、推荐等一系列和阅读无关的内容。
