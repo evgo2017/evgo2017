@@ -3,8 +3,6 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,java,eclipse,js,sublime,bootstrap,jquery,c,cpp,vue,sass,less,bash,md,nodejs,git,github,nginx,mysql,mongodb,sqlite,stackoverflow,vscode,py,powershell,regex,redis,docker,jenkins,cs,dotnet,kubernetes,aws,grafana,prometheus,elasticsearch,react,pnpm,remix)
 
-从头开始看，以前竟也是古法编程了。`Elipse`、`Sublime`、`JQuery`、`Stackoverflow` 都多久没见到过了呢？。
-
 ### 我的系列仓库 My Repositories
 
 #### Office2PDF 系列（2019 年 5 月 起）
