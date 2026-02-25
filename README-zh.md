@@ -10,6 +10,8 @@
 
 出来晒晒太阳。
 
+🧡 [WSBditor](https://github.com/evgo2017/WSBditor)： Windows 沙盒编辑器。<img src="https://img.shields.io/github/stars/evgo2017/WSBditor.svg?style=social&label=Star&maxAge=2592000">
+
 🧡 [xiaoheihe-editor](https://github.com/evgo2017/xiaoheihe-editor)： 小黑盒文章编辑器。<img src="https://img.shields.io/github/stars/evgo2017/xiaoheihe-editor.svg?style=social&label=Star&maxAge=2592000">
 
 🧡 [mpv-lazy-easy](https://github.com/evgo2017/mpv-lazy-easy) : MPV 视频播放器懒人包，视频、音乐秒打开。<img src="https://img.shields.io/github/stars/evgo2017/mpv-lazy-easy.svg?style=social&label=Star&maxAge=2592000">

@@ -10,6 +10,8 @@
 
 Go out and get some sun.
 
+🧡 [WSBditor](https://github.com/evgo2017/WSBditor)： Web-based Windows Sandbox configuration file (*.wsb) editor.<img src="https://img.shields.io/github/stars/evgo2017/WSBditor.svg?style=social&label=Star&maxAge=2592000">
+
 🧡 [xiaoheihe-editor](https://github.com/evgo2017/xiaoheihe-editor)： A specialized Markdown conversion tool designed for the XiaoHeiHe.<img src="https://img.shields.io/github/stars/evgo2017/xiaoheihe-editor.svg?style=social&label=Star&maxAge=2592000">
 
 🧡 [mpv-lazy-easy](https://github.com/evgo2017/mpv-lazy-easy) : MPV Video Player Lazy Pack, Videos and Music Open Instantly. <img src="https://img.shields.io/github/stars/evgo2017/mpv-lazy-easy.svg?style=social&label=Star&maxAge=2592000">
