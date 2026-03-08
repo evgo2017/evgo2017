@@ -18,7 +18,7 @@ Go out and get some sun.
 🧡 [mpv-lazy-easy](https://github.com/evgo2017/mpv-lazy-easy) : MPV Video Player Lazy Pack, Videos and Music Open Instantly. <img src="https://img.shields.io/github/stars/evgo2017/mpv-lazy-easy.svg?style=social&label=Star&maxAge=259200">
 -->
 
-🧡 [purify-page](https://github.com/evgo2017/purify-page): A perfect page reading experience, removing ads, recommendations, and other content unrelated to reading. <img src="https://img.shields.io/github/stars/evgo2017/purify-page.svg?style=social&label=Star&maxAge=259200">
+🧡 [purify-page](https://github.com/evgo2017/purify-page): Removing ads and other content unrelated to reading page. <img src="https://img.shields.io/github/stars/evgo2017/purify-page.svg?style=social&label=Star&maxAge=259200">
 
 🧡 [killport](https://github.com/evgo2017/killport): Kill processes by port number。<img src="https://img.shields.io/github/stars/evgo2017/killport.svg?style=social&label=Star&maxAge=259200">
 
